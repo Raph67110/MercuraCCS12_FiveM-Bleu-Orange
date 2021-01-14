@@ -1,5 +1,5 @@
 # MercuraCCS8FiveM-Bleu-Orange
-https://img.shields.io/github/issues/Raph67110/MercuraCCS12_FiveM-Bleu-Orange?label=Probl%C3%A8mes
+<a href="https://github.com/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Raph67110/MercuraCCS12_FiveM-Bleu-Orange?label=Probl%C3%A8mes"></a>
 Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre disposition !
 
 ⚠️⚠️ LA LICENSE EST OBLIGATOIREMENT À RESPECTER ⚠️⚠️
