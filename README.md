@@ -5,9 +5,6 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
 
 ⚠️⚠️ LA LICENSE EST OBLIGATOIREMENT À RESPECTER ⚠️⚠️
 
-👉 PUBLICATION CETTE SEMAINE !
-👉 1er CCS : le nouveau, CCS 12 gyros oranges (pas de sirène)/bleus
-
 ➡ Les serveurs l'utilisant devront le créditer sur leur discord dans une partie visible en mettant le lien du GitHub.
 
 ➡**SI VOUS MODIFIEZ LE SCRIPT A VOTRE GOUT, IL FAUDRA OBLIGATOIREMENT CREER UN "fork". JE NE TOLERE PAS QU'ON S'APPROPRIE UNE EXCLU AVEC CE SCRIPT**
