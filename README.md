@@ -7,7 +7,7 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
 
 ➡ Les serveurs l'utilisant devront le créditer sur leur discord dans une partie visible en mettant le lien du GitHub.
 
-➡**SI VOUS MODIFIEZ LE SCRIPT A VOTRE GOUT, IL FAUDRA OBLIGATOIREMENT CREER UN "fork". JE NE TOLERE PAS QU'ON S'APPROPRIE UNE EXCLU AVEC CE SCRIPT**
+➡**SI VOUS MODIFIEZ LE SCRIPT A VOTRE GOUT, IL FAUDRA OBLIGATOIREMENT CREER UNE "issue". JE NE TOLERE PAS QU'ON S'APPROPRIE UNE EXCLU AVEC CE SCRIPT**
 
 ➡ J'accepte toutes les critiques qu'elles soient négatives ou positives, mais constructives 
 
