@@ -20,4 +20,4 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
                                               N = Extra 3
                                               *Celles-ci sont modifiables sans obligation de fork*
 
-![Le CCS Bleu](https://imgur.com/s08jDDA)
+![Le CCS Bleu](https://imgur.com/s08jDDA.png)
