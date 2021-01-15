@@ -12,14 +12,13 @@ Citizen.CreateThread(function()
 		Citizen.Wait(0)
         local playerped = GetPlayerPed(-1)		
 		if IsPedInAnyVehicle(playerped, false) then	
-			-- Check si le joueurs est conducteur
 			local veh = GetVehiclePedIsUsing(playerped)	
 			local NetId = NetworkGetNetworkIdFromEntity(veh)
+			if GetVehicleClass(veh) == 18 then 				-- Check si il est dans un véhicule de police / EMS
 			SetVehicleExtra(veh, 1, false)
 			SetVehicleExtra(veh, 2, false)
 			SetVehicleExtra(veh, 3, false)
-			if GetPedInVehicleSeat(veh, -1) == playerped then
-				-- Check si il est dans un véhicule de police / EMS
+			if GetPedInVehicleSeat(veh, -1) == playerped then 			-- Check si le joueurs est conducteur
 
                     if not HasStreamedTextureDictLoaded("ccs") then
 					RequestStreamedTextureDict("ccs", true) -- unload it
@@ -27,7 +26,6 @@ Citizen.CreateThread(function()
 						Wait(0)
 					end
                     else
-                        if GetVehicleClass(veh) == 18 then
                     DrawSprite("ccs", "panel", 0.898,0.752,0.20,0.245, 0.0, 255, 255, 255, 255)     --panel																			FAIT
                     DrawSprite("ccs", "sirene", 0.858,0.695,0.03,0.05, 0.0, 255, 255, 255, 255)     --référence bouton SIRENE /!\													FAIT
                     DrawSprite("ccs", "gyros", 0.885,0.695,0.03,0.05, 0.0, 255, 255, 255, 255)     --référence bouton GYRO /!\														FAIT
