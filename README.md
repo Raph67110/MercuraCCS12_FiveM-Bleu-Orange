@@ -18,6 +18,6 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
                                               Y = Extra 1
                                               B = Extra 2
                                               N = Extra 3
-                                              *Celles-ci sont modifiables sans obligation de fork*
+                                              *Celles-ci sont modifiables sans obligation de créer une demande*
 
 ![Le CCS Bleu](https://imgur.com/s08jDDA.png)
