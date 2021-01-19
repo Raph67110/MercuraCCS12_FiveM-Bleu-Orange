@@ -24,5 +24,8 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
                                               B = Extra 2
                                               N = Extra 3
                                               *Celles-ci sont modifiables sans obligation de créer une demande*
-
+Crédits :
+Rubylium,
+Scott Plunkett,
+Raph pour [MasterMods](https://discord.gg/qhR67EvjCK) 
 ![Le CCS Bleu](https://imgur.com/s08jDDA.png)
