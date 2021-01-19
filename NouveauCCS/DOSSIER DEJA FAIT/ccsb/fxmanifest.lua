@@ -15,7 +15,8 @@ client_scripts {
 
 files({
     'client/html/index.html',
-    'client/html/sounds/ccs.ogg'
+    'client/html/sounds/ccs.ogg',
+    'client/html/sounds/sp.ogg'
 })
 
 ui_page('client/html/index.html')

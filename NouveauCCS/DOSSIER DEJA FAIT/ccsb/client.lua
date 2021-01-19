@@ -5,7 +5,6 @@ local auxi = 0
 local defg = 1
 local defm = 1
 local defd = 1
-
 Citizen.CreateThread(function()
 	while true do
 
@@ -15,9 +14,9 @@ Citizen.CreateThread(function()
 			local veh = GetVehiclePedIsUsing(playerped)	
 			local NetId = NetworkGetNetworkIdFromEntity(veh)
 			if GetVehicleClass(veh) == 18 then 				-- Check si il est dans un véhicule de police / EMS
-			SetVehicleExtra(veh, 1, false)
-			SetVehicleExtra(veh, 2, false)
-			SetVehicleExtra(veh, 3, false)
+			local aheadVehHash = GetEntityModel(veh)
+			local aheadVehName = GetDisplayNameFromVehicleModel(aheadVehHash)
+			local aheadVehNameText = GetLabelText(aheadVehName)
 			if GetPedInVehicleSeat(veh, -1) == playerped then 			-- Check si le joueurs est conducteur
 
                     if not HasStreamedTextureDictLoaded("ccs") then
@@ -123,6 +122,7 @@ if defg == 1 then
 	SetVehicleExtra(veh, 1, true)
 else
 	DrawSprite("ccs", "defilg_on", 0.858,0.744,0.03,0.05, 0.0, 255, 255, 255, 255)     --référence bouton GYRO Allumé /!\
+	SetVehicleExtra(veh, 1, false)
 
 end
 ---------------------------------------------------------------
@@ -144,6 +144,7 @@ if defm == 1 then
 	SetVehicleExtra(veh, 2, true)
 else
 	DrawSprite("ccs", "defilmid_on", 0.885,0.744,0.03,0.05, 0.0, 255, 255, 255, 255)     --référence bouton GYRO Allumé /!\
+	SetVehicleExtra(veh, 2, false)
 
 end
 
@@ -166,6 +167,7 @@ if defd == 1 then
 	SetVehicleExtra(veh, 3, true)
 else
 	DrawSprite("ccs", "defild_on", 0.916,0.744,0.03,0.05, 0.0, 255, 255, 255, 255)     --référence bouton GYRO Allumé /!\
+	SetVehicleExtra(veh, 3, false)
 
 end
 
