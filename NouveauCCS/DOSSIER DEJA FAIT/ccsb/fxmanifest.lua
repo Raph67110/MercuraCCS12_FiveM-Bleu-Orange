@@ -4,7 +4,7 @@ games { 'gta5' }
 
 author 'Raph pour MasterMods'
 description 'Can Control System de Mercura pour FiveM'
-version '1.0.0'
+version '2.0.0'
 name 'MercuraCCSFiveM'
 url 'https://git.friendsincode.com/friendsincode-public/elsplus'
 
