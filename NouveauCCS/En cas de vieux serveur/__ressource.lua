@@ -1,4 +1,5 @@
 -- Resource Metadata
+-- REMPLACER CECI PAR LE fxserver.lua SI VOUS AVEZ UN VIEUX SERVEUR
 fx_version 'bodacious'
 games { 'gta5' }
 
