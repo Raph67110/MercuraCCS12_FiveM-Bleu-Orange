@@ -24,7 +24,7 @@ Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre dispos
                                               B = Extra 2
                                               N = Extra 3
                                               *Celles-ci sont modifiables sans obligation de créer une demande*
-                                              ![Le CCS Bleu](https://imgur.com/s08jDDA.png)
+![Le CCS Bleu](https://imgur.com/s08jDDA.png)
  
   **ATTENTION BUG DE SIRENES SI VOUS ROULEZ AVEC UN EXTRA 1, 2 ou 3 ALLUMÉ !**
 Crédits :
