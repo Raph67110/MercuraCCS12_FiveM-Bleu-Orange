@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Raph67110/MercuraCCS12_FiveM-Bleu-Orange?label=%C3%A9toiles)](https://github.com/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/stargazers) 
 [![GitHub license](https://img.shields.io/github/license/Raph67110/MercuraCCS12_FiveM-Bleu-Orange)](https://github.com/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/blob/main/LICENSE) 
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/v1.5/total?label=t%C3%A9l%C3%A9chargements-v1.5) 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/v2/total?label=t%C3%A9l%C3%A9chargements)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/Raph67110/MercuraCCS12_FiveM-Bleu-Orange/v2/total?label=t%C3%A9l%C3%A9chargements-v2)
 
 Le tant attendu Mercura©️ CCS®️ Vieux et CCS®️ Nouveau, à votre disposition !
 
